@@ -1,4 +1,8 @@
-
+/**
+ * v0 by Vercel.
+ * @see https://v0.dev/t/2y0goDjC8IU
+ * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
+ */
 import Link from "next/link"
 
 export default function YoelEmpire() {
@@ -27,7 +31,7 @@ export default function YoelEmpire() {
               </p>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
-              <div>
+              <div className="group hover:scale-105 transition-transform duration-300">
                 <h2 className="text-xl font-semibold">Características Destacadas</h2>
                 <ul className="mt-2 space-y-2 list-disc pl-5 text-gray-500 dark:text-gray-400">
                   <li>Modos de juego personalizados</li>
@@ -35,7 +39,7 @@ export default function YoelEmpire() {
                   <li>Soporte para la comunidad</li>
                 </ul>
               </div>
-              <div>
+              <div className="group hover:scale-105 transition-transform duration-300">
                 <h2 className="text-xl font-semibold">Cómo Unirte</h2>
                 <ul className="mt-2 space-y-2 list-disc pl-5 text-gray-500 dark:text-gray-400">
                   <li>Descarga Minecraft Bedrock Edition</li>
@@ -44,11 +48,11 @@ export default function YoelEmpire() {
                 </ul>
               </div>
             </div>
-            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative">
+            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative group hover:scale-105 transition-transform duration-300">
               <div className="absolute inset-0 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] opacity-20 blur-xl" />
               <h2 className="text-xl font-semibold mb-4 relative z-10">Últimas Actualizaciones</h2>
               <div className="flex flex-col md:flex-row gap-4 relative z-10">
-                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative">
+                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
                   <h3 className="text-lg font-semibold mb-2">Nueva Actualización</h3>
                   <p className="text-gray-500 dark:text-gray-400">
@@ -56,7 +60,7 @@ export default function YoelEmpire() {
                     que hay de nuevo!
                   </p>
                 </div>
-                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative">
+                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
                   <h3 className="text-lg font-semibold mb-2">Nuevo Anticheat Agregado</h3>
                   <p className="text-gray-500 dark:text-gray-400">
@@ -66,11 +70,11 @@ export default function YoelEmpire() {
                 </div>
               </div>
             </div>
-            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative">
+            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative group hover:scale-105 transition-transform duration-300">
               <div className="absolute inset-0 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] opacity-20 blur-xl" />
               <h2 className="text-xl font-semibold mb-4 relative z-10">Información del Servidor</h2>
               <div className="flex flex-col md:flex-row gap-4 relative z-10">
-                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative">
+                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
                   <h3 className="text-lg font-semibold mb-2">Dirección del Servidor</h3>
                   <p className="text-gray-500 dark:text-gray-400">IP: 192.168.1.100</p>
@@ -78,11 +82,11 @@ export default function YoelEmpire() {
                 </div>
               </div>
             </div>
-            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative">
+            <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden p-6 relative group hover:scale-105 transition-transform duration-300">
               <div className="absolute inset-0 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] opacity-20 blur-xl" />
               <h2 className="text-xl font-semibold mb-4 relative z-10">Únete a Nuestra Comunidad</h2>
               <div className="flex flex-col md:flex-row gap-4 relative z-10">
-                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative">
+                <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
                   <h3 className="text-lg font-semibold mb-2">Únete a Nuestro Discord</h3>
                   <p className="text-gray-500 dark:text-gray-400">
@@ -101,7 +105,7 @@ export default function YoelEmpire() {
               </div>
             </div>
           </div>
-          <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden relative">
+          <div className="bg-gray-100 dark:bg-gray-800 rounded-lg overflow-hidden relative group hover:scale-105 transition-transform duration-300">
             <div className="absolute inset-0 bg-gradient-to-br from-[#ff6b6b]/50 to-[#ffa500]/50 blur-xl" />
             <div className="absolute inset-0 bg-gradient-to-br from-[#6b72ff]/50 to-[#9b6bff]/50 blur-xl" />
             <div className="absolute inset-0 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] opacity-20 blur-xl" />
