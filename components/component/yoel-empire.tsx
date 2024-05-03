@@ -1,4 +1,8 @@
-
+/**
+ * v0 by Vercel.
+ * @see https://v0.dev/t/YXSSMzJ46k5
+ * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
+ */
 import Link from "next/link"
 
 export default function YoelEmpire() {
@@ -39,7 +43,7 @@ export default function YoelEmpire() {
                 <h2 className="text-xl font-semibold">Cómo Unirte</h2>
                 <ul className="mt-2 space-y-2 list-disc pl-5 text-gray-500 dark:text-gray-400">
                   <li>Descarga Minecraft Bedrock Edition</li>
-                  <li>añade ip y puerto de nuestro servidor en la lista</li>
+                  <li>Busca nuestro servidor en la lista</li>
                   <li>Conéctate y disfruta de la aventura</li>
                 </ul>
               </div>
