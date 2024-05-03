@@ -39,7 +39,7 @@ export default function YoelEmpire() {
                 <h2 className="text-xl font-semibold">Cómo Unirte</h2>
                 <ul className="mt-2 space-y-2 list-disc pl-5 text-gray-500 dark:text-gray-400">
                   <li>Descarga Minecraft Bedrock Edition</li>
-                  <li>Busca nuestro servidor en la lista</li>
+                  <li>añade ip y puerto de nuestro servidor en la lista</li>
                   <li>Conéctate y disfruta de la aventura</li>
                 </ul>
               </div>
