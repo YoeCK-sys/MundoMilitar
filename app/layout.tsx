@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Mundo Militar",
-  description: "...",
+  description: "Perri-ortitorico",
   icons: "@"
 };
 
