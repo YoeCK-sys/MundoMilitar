@@ -73,7 +73,7 @@ export default function YoelEmpire() {
                 <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
                   <h3 className="text-lg font-semibold mb-2">Dirección del Servidor</h3>
-                  <p className="text-gray-500 dark:text-gray-400">IP: 192.168.1.100</p>
+                  <p className="text-gray-500 dark:text-gray-400">IP: 192.168.1.101</p>
                   <p className="text-gray-500 dark:text-gray-400">Puerto: 25565</p>
                 </div>
               </div>
