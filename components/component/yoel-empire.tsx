@@ -50,18 +50,16 @@ export default function YoelEmpire() {
               <div className="flex flex-col md:flex-row gap-4 relative z-10">
                 <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
-                  <h3 className="text-lg font-semibold mb-2">Nueva Actualización</h3>
+                  <h3 className="text-lg font-semibold mb-2">Nuevo imperio</h3>
                   <p className="text-gray-500 dark:text-gray-400">
-                    Hemos agregado nuevos modos de juego y plugins para mejorar tu experiencia. ¡Echa un vistazo a lo
-                    que hay de nuevo!
+                    Hemos agregado un nuevo imperio una de ellas es el Tercer Reich y el imperio de la Plata.
                   </p>
                 </div>
                 <div className="bg-white dark:bg-gray-950 rounded-lg shadow-lg p-4 flex-1 relative group hover:scale-105 transition-transform duration-300">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-[#ff6b6b] to-[#ffa500] rounded-t-lg" />
-                  <h3 className="text-lg font-semibold mb-2">Nuevo Anticheat Agregado</h3>
+                  <h3 className="text-lg font-semibold mb-2">Bugs De Tanques</h3>
                   <p className="text-gray-500 dark:text-gray-400">
-                    Hemos implementado un nuevo sistema anticheat para mejorar la seguridad y la integridad del
-                    servidor. Esto ayudará a mantener una experiencia de juego justa y sin problemas.
+                    HEMOS SOLUCIONADO ALGUNOS BUGS DE TANQUES QUE SE PRESENTABAN AL SUBIR AL TANQUE.
                   </p>
                 </div>
               </div>
