@@ -3,7 +3,7 @@
  * @see https://v0.dev/t/zsWO3EyGArD
  * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
  */
-export default function Component() {
+export default function YoelEmpire() {
   return (
     <div key="1" className="w-full min-h-screen bg-gradient-to-br from-[#0f0f0f] to-[#1b1b1b] text-white">
       <header className="py-6 px-4 md:px-8 flex items-center justify-between">
