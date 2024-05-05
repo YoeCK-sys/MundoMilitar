@@ -1,8 +1,5 @@
-/**
- * v0 by Vercel.
- * @see https://v0.dev/t/zsWO3EyGArD
- * Documentation: https://v0.dev/docs#integrating-generated-code-into-your-nextjs-app
- */
+import Image from 'next/image';
+
 export default function YoelEmpire() {
   return (
     <div key="1" className="w-full min-h-screen bg-gradient-to-br from-[#0f0f0f] to-[#1b1b1b] text-white">
