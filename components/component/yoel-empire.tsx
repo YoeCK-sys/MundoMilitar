@@ -4,7 +4,7 @@ export default function YoelEmpire() {
     <div key="1" className="w-full min-h-screen bg-gradient-to-br from-[#0f0f0f] to-[#1b1b1b] text-white">
       <header className="py-6 px-4 md:px-8 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <img alt="YoelEmpire" className="h-8 w-8" src="/placeholder.svg" />
+          <Image alt="YoelEmpire" className="h-8 w-8" src="/placeholder.svg" />
           <h1 className="text-2xl font-bold">YoelEmpire</h1>
         </div>
         <nav className="hidden md:flex items-center gap-4">
